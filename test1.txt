@@ -1,10 +1,1 @@
- Volume in drive C is Windows-SSD
- Volume Serial Number is 3246-2299
-
- Directory of C:\myproject
-
-04/02/2024  08:16 ££    <DIR>          .
-04/02/2024  08:16 ££    <DIR>          .git
-04/02/2024  08:16 ££                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  183.278.596.096 bytes free
+change 1
